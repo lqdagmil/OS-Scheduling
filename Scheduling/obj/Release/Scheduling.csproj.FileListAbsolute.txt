@@ -1,0 +1,12 @@
+D:\__CompsysProject\Scheduling\Scheduling\bin\Release\Scheduling.exe
+D:\__CompsysProject\Scheduling\Scheduling\bin\Release\Scheduling.pdb
+D:\__CompsysProject\Scheduling\Scheduling\bin\Release\Scheduler.dll
+D:\__CompsysProject\Scheduling\Scheduling\bin\Release\Scheduler.pdb
+D:\__CompsysProject\Scheduling\Scheduling\obj\Release\Scheduling.csprojAssemblyReference.cache
+D:\__CompsysProject\Scheduling\Scheduling\obj\Release\Scheduling.Form1.resources
+D:\__CompsysProject\Scheduling\Scheduling\obj\Release\Scheduling.Properties.Resources.resources
+D:\__CompsysProject\Scheduling\Scheduling\obj\Release\Scheduling.csproj.GenerateResource.cache
+D:\__CompsysProject\Scheduling\Scheduling\obj\Release\Scheduling.csproj.CoreCompileInputs.cache
+D:\__CompsysProject\Scheduling\Scheduling\obj\Release\Scheduling.csproj.CopyComplete
+D:\__CompsysProject\Scheduling\Scheduling\obj\Release\Scheduling.exe
+D:\__CompsysProject\Scheduling\Scheduling\obj\Release\Scheduling.pdb
